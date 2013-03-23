@@ -2,4 +2,4 @@ blessedrepo
 ===========
 
 the blessed repository for dictator and lieutenants workflow
-updated by romdev/Sacha/dictator
+updated by romdev/Sacha/vbvrom/dictator
